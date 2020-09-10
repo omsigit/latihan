@@ -1,0 +1,3 @@
+git bash here
+ke git
+git clone https://github.com/omsigit/latihan.git
